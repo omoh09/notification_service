@@ -1,5 +1,5 @@
 
-## A Laravel costomed Notification service
+## A Laravel customed Notification service
 ### This service extends an interface which gets and store all notification in your app to an array and also find and delte a user by its index,  
 
 In your project
